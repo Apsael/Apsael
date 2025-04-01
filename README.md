@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Diego Fernández and I'm a developer from Santa Cruz - Bolivia</h2>
+<h2 align="left">Hi! My name is Diego Fernández and I'm a developer from Santa Cruz - Bolivia</h2>
 
 ###
 
