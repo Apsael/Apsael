@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi! I'm Diego Andrés Fernández Romero</h2>
+<h2 align="center">Hi! I'm Diego Andrés Fernández Romero</h2>
 <h3 align="center">Full Stack Developer from Santa Cruz, Bolivia 🇧🇴</h3>
 
 ###
