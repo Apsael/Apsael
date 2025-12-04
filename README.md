@@ -74,11 +74,5 @@
 ###
 
 <div align="center">
-  <img src="https://i.postimg.cc/pd0DxmXR/ivan-jermakov-N1-I6-Ig-DOGJs-unsplash.jpg" alt="banner image" />
-</div>
-
-###
-
-<div align="center">
   <p><em>Open to new opportunities and collaborations!</em></p>
 </div>
